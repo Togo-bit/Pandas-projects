@@ -3,6 +3,9 @@ This project involves exploratory data analysis on a Netflix titles dataset usin
 
 # Objectives
 1)Understand the structure and contents of Netflix's catalog.
+
 2)Perform data cleaning (handling nulls,removing unnecessary rows).
+
 3)Analyze distribution by country, year, type (Movie/TV Show), and rating.
+
 4)Use filtering, grouping, and sorting to answer key business questions.
